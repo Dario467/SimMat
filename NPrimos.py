@@ -29,5 +29,3 @@ def primos(num: int) -> list[int]:
 
 
 print(primos(20))
-
-
