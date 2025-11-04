@@ -34,7 +34,7 @@ plt.ylabel("Probabilidad")
 plt.legend()
 plt.show()
 
-# Mostramos la probabilidad final al día 30
+# Probabilidad final al día 30
 print(f"Probabilidad al día 30 de superar +8%: {prob.iloc[-1]:.2%}")
 
 
